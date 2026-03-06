@@ -2,7 +2,7 @@
 
 Script de vélos déployables compatible avec ESX, QBCore et Standalone.
 
-## 🎯 Fonctionnalités
+## Fonctionnalités
 
 - ✅ Support multi-framework (ESX, QBCore, Standalone)
 - ✅ 7 types de vélos différents
@@ -11,7 +11,7 @@ Script de vélos déployables compatible avec ESX, QBCore et Standalone.
 - ✅ Configuration ultra détaillée
 - ✅ Options avancées (verrouillage, invincibilité, auto-delete)
 
-## 📦 Installation
+## Installation
 
 ### 1. Configuration du Framework
 
@@ -60,7 +60,7 @@ Toutes les options sont dans `config.lua` :
 - Options par vélo (distance de spawn, poids, activation)
 - Options avancées (auto-delete, verrouillage, invincibilité)
 
-## 🎮 Utilisation
+## Utilisation
 
 1. Utilisez l'item vélo depuis votre inventaire
 2. Le vélo se déploie devant vous avec une animation
@@ -68,7 +68,7 @@ Toutes les options sont dans `config.lua` :
 4. Descendez et appuyez sur `E` pour le ramasser
 5. Le vélo retourne dans votre inventaire
 
-## 📝 Support
+## Support
 
 Pour ajouter un nouveau vélo, ajoutez-le dans `config.lua` :
 
@@ -83,3 +83,4 @@ Pour ajouter un nouveau vélo, ajoutez-le dans `config.lua` :
 ```
 
 N'oubliez pas d'ajouter l'item dans votre base de données ou fichier items !
+
